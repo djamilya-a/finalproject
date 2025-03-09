@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "tailwindcss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "El Messiri";
+}
+
+.main-bg {
+  background: url(../src/assets/main.png);
+}
+
+.h1 {
+  /* font-family: 'Space Mono'; */
+  font-weight: 300;
+}
+
+.link {
+  font-weight: 900;
+}
+
+.h2 {
+  font-weight: 500;
+  margin-right: 370px;
+}
+
+.span {
+  margin-top: -80px;
+}
+
+.info-content {
+  /* margin-bottom: -200px; */
+  position: absolute;
+  margin-left: 390px;
+  margin-top: 30px;
+}
+
+.label {
+  margin-left: -85px;
+  margin-bottom: -30px;
+}
+
+.inside {
+  margin-top: -95px;
+}
+
+.about {
+  margin-top: -100px;
+}
+
+.apt {
+  background: url(../src/assets/apt.png);
+  background-size: cover;
+}
+
+.apt-img {
+  width: 100%;
+  margin-top: -430px;
+}
+
+.apt-p {
+  font-weight: 700;
+}
+
+.space {
+  margin-bottom: 150px;
+}
+
+.bankhotel {
+  background: url(../src/assets/bottom.png);
+  height: 190px;
+  margin-top: 100px;
+}
+
+.get-in {
+  font-weight: 100;
+}
+
+.touch {
+  margin-top: -60px;
+}
+
+.vector {
+  margin-bottom: -450px;
+  width: 100%;
+}
+
+.h4 {
+  text-align: center;
+}
+
+.img {
+  margin-bottom: -130px;
+  margin-left: 825px;
+}
+
+.h3 {
+  font-weight: 200;
+}
+
+.room {
+  background: url(../src/assets/twin.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.description {
+  font-weight: 300;
+  line-height: 60px;
+}
+
+.label1 {
+  margin-bottom: -90px;
+}
+
+.logo1 {
+  margin-left: 405px;
+  margin-bottom: -167px;
+  background-color: #FFFCF6;
+}
