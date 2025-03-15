@@ -78,8 +78,12 @@ export default function Register() {
             {loading ? "Loading..." : "Sign Up"}
           </button>
         </form>
-        {message && <p className="text-center text-[#1B3B36] text-[18px] text-red-500">{message}</p>}
+        {message && <p className="text-center text-[#1B3B36] text-[18px]\">{message}</p>}
       </div>
     </div>
   );
 }
+
+// git add .
+// git commit -m "твое сообщение"
+// git push
