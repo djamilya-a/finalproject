@@ -73,7 +73,7 @@ export default function Register() {
           <button
             type="submit"
             disabled={loading}
-            className="w-[300px] bg-[#FCD043] border-none text-[#1B3B36] py-[15px] rounded-[10px] text-[16px] text-[#1B3B36] hover:bg-[#FCD043] transition lg:w-[400px]"
+            className="w-[300px] bg-[#FCD043] border-none text-[#1B3B36] py-[15px] rounded-[10px] text-[16px] text-[#1B3B36] hover:bg-[#FFFCF6] transition lg:w-[400px]"
           >
             {loading ? "Loading..." : "Send"}
           </button>
