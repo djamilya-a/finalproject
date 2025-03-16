@@ -24,7 +24,7 @@ const Rooms = () => {
           </div>
           <div className="pt-[70px]">
             <h6 className='text-[40px] text-[#FCD043] capitalize'>Premier Standard</h6>
-            <img className='pt-[30px] -mb-[9.8px] w-[1200px]' src={Room} alt="" />
+            <img className='pt-[30px] w-[1200px]' src={Room} alt="" />
           </div>
         </div>
       </section>
