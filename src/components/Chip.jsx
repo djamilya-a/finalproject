@@ -5,7 +5,7 @@ const Chip = () => {
   return (
     <div className="w-[250px] border border-[1px] border-[#FFFCF6] rounded-[100px] py-[13px] flex justify-evenly items-center">
         <img src={Star} alt="" />
-        <h4 className='text-[22px] text-[#FFFCF6]'>since 1973</h4>
+        <h4 className='text-[22px] text-[#FFFCF6]'>since 2007</h4>
     </div>
   )
 }

@@ -8,7 +8,7 @@ const Main = () => {
       <div className="w-[100%] lg:w-[1024px] xl:w-[1400px] mx-[auto]">
         <div className="flex items-end justify-between pb-[70px]">
           <div className="">
-            <h1 className='text-[#FFFCF6] text-[80px] lg:text-[120px] xl:text-[170px] h1'>Bank<span className='text-[#FCD043] h1'>Hotel</span></h1>
+            <h1 className='text-[#FFFCF6] text-[80px] lg:text-[120px] xl:text-[170px] h1'>Aeris<span className='text-[#FCD043] h1'>Hotel</span></h1>
             <h5 className='text-[#FCD043] text-[12px] lg:text-[18px] uppercase'>rooms // restaurant // congress hall // wine bar</h5>
           </div>
           <div className="mr-[100px] hidden lg:block">

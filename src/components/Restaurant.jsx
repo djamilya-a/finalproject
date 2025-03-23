@@ -22,7 +22,7 @@ const Restaurant = () => {
 
                 <div className="my-[100px] flex justify-start gap-[60px] items-end">
                     <img src={Michael} alt="" />
-                    <p className='text-[18px] text-[#1B3B36]'>Bank Hotel offers you a wide range of <br /> additional services and facilities. Visit our <br /> restaurant to try exclusive meals, book a <br /> conference hall to organize a business <br /> meeting, or relax in the art-bar. </p>
+                    <p className='text-[18px] text-[#1B3B36]'>Aeris Hotel offers you a wide range of <br /> additional services and facilities. Visit our <br /> restaurant to try exclusive meals, book a <br /> conference hall to organize a business <br /> meeting, or relax in the art-bar. </p>
                 </div>
 
                 <FacilitesList />

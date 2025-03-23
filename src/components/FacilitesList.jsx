@@ -14,13 +14,13 @@ const data = [
     {
         id: '02',
         title: "Conference Hall",
-        text: "The hotel’s exclusive infrastructure is complemented by the unique atmosphere of the Conference hall. Author’s menu, extensive wine card, and live music will set you for the correct mood.",
+        text: "The hotel’s exclusive infrastructure is complemented by the unique atmosphere of the Conference hall. Atmosphere of tranquility, comfortable workspace, and live music will set you for the correct mood.",
         image: Conference,
     },
     {
         id: '03',
         title: "Wine bar “reserve”",
-        text: "The hotel’s exclusive infrastructure is complemented by the unique atmosphere of the Wine Bar. Author’s menu, extensive wine card, and live music will set you for the correct mood.",
+        text: "The hotel’s exclusive infrastructure is complemented by the unique atmosphere of the Wine Bar. Variety of wine varieties, a great number of appetisers, and live music will set you for the correct mood.",
         image: Winebar ,
     }
 ]

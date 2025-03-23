@@ -19,7 +19,7 @@ const About = () => {
             <img src={InfoImg} alt="" />
             <div className="">
               <h4 className='text-[36px] text-[#FFFCF6] mb-[40px]'>High quality</h4>
-              <p className='text-[18px] text-[#FFFCF6]'>The five-star Bank Hotel was reopened to visitors <br /> in 2016. The building was renovated and <br /> modernized to meet the expectations of the most <br /> demanding guests. We offer luxurious rooms, <br /> numerous facilities, and exceptional service. </p>
+              <p className='text-[18px] text-[#FFFCF6]'>The five-star Aeris Hotel was reopened to visitors <br /> in 2016. The building was renovated and <br /> modernized to meet the expectations of the most <br /> demanding guests. We offer luxurious rooms, <br /> numerous facilities, and exceptional service. </p>
             </div>
           </div>
         </div>
@@ -28,13 +28,6 @@ const About = () => {
           <div className="ml-[50px] about">
             <img className='label' src={Label} alt="" />
             <img src={AboutImg} alt="" />
-          </div>
-          <div className="flex flex-col justify-center items-center">
-            <img src={Border} alt="" />
-            <div className="inside flex flex-col justify-between items-center gap-[13px]">
-              <h6 className='text-[20px] text-[#FFFCF6]'>Our rooms</h6>
-              <img src={Vector1} alt="" />
-            </div>
           </div>
         </div>
       </div>

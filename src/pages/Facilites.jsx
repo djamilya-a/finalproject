@@ -14,7 +14,7 @@ const Restaurant = () => {
         <img className='w-[120px] img' src={Label} alt="" />
         <div className="flex justify-between items-start my-[100px]">
           <h3 className='text-[#FFFCF6] text-[50px] capitalize'>One of a Kind</h3>
-          <p className='text-[#FFFCF6] text-[18px] mr-[150px]'>Bank Hotel proudly welcomes you to the <br /> Safe Restaurant, a place where you will <br /> wish you could dine every day. The <br /> restaurant offers a unique menu developed <br /> by the team of professionals led by chef <br /> Mary-Ann Jones, the wine list with more <br /> than 250 items, the outstanding service, <br /> and the unforgettable atmosphere.</p>
+          <p className='text-[#FFFCF6] text-[18px] mr-[150px]'>Aeris Hotel proudly welcomes you to the <br /> Safe Restaurant, a place where you will <br /> wish you could dine every day. The <br /> restaurant offers a unique menu developed <br /> by the team of professionals led by chef <br /> Mary-Ann Jones, the wine list with more <br /> than 250 items, the outstanding service, <br /> and the unforgettable atmosphere.</p>
         </div>
         <div className="flex justify-between items-start">
           <img src={Lobby} alt="" />
@@ -33,7 +33,7 @@ const Restaurant = () => {
           <div className="flex flex-col gap-[50px]">
             <img className='h-[450px] w-[810px]' src={Dining} alt="" />
             <h4 className='text-[36px] text-[#FFFCF6] leading-none pt-[10px]'>Spend Your Time With Us</h4>
-            <p className='text-[#FFFCF6] text-[18px]'>If you are looking for an exclusive place to have a <br /> romantic dinner, organize a business meeting, or <br /> spend an enjoyable evening with friends, visit Safe <br /> Restaurant in Bank Hotel. With our delicious meals, <br /> unique interior design, and atmosphere of comfort and <br /> exquisiteness you shall never want to go to a different <br /> restaurant.</p>
+            <p className='text-[#FFFCF6] text-[18px]'>If you are looking for an exclusive place to have a <br /> romantic dinner, organize a business meeting, or <br /> spend an enjoyable evening with friends, visit Safe <br /> Restaurant in Aeris Hotel. With our delicious meals, <br /> unique interior design, and atmosphere of comfort and <br /> exquisiteness you shall never want to go to a different <br /> restaurant.</p>
           </div>
         </div>
       </div>

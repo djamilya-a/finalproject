@@ -19,7 +19,7 @@ const Info = () => {
             <img className='hidden lg:block' src={InfoImg} alt="" />
             <div className="">
               <h4 className='text-[36px] text-[#FFFCF6] mb-[40px]'>High quality</h4>
-              <p className='text-[18px] text-[#FFFCF6]'>The five-star Bank Hotel was reopened to visitors <br /> in 2016. The building was renovated and <br /> modernized to meet the expectations of the most <br /> demanding guests. We offer luxurious rooms, <br /> numerous facilities, and exceptional service. </p>
+              <p className='text-[18px] text-[#FFFCF6]'>The five-star Aeris Hotel was reopened to visitors <br /> in 2016. The building was renovated and <br /> modernized to meet the expectations of the most <br /> demanding guests. We offer luxurious rooms, <br /> numerous facilities, and exceptional service. </p>
             </div>
           </div>
         </div>
