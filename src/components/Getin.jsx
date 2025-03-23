@@ -3,7 +3,6 @@ import Star from '../assets/star.png'
 import Getintouch from '../assets/getintouch.png'
 import Vector2 from '../assets/vector2.png'
 import { Link } from 'react-router-dom';
-import EastRoundedIcon from '@mui/icons-material/EastRounded';
 
 const Getin = () => {
     return (
@@ -25,7 +24,7 @@ const Getin = () => {
                 <div className="w-[740px] flex items-center justify-between mt-[30px]">
                     <div className="hidden lg:flex h-[125px] w-[370px] h4 items-center justify-center gap-[15px] bg-[#FCD043]">
                         <h4 className='uppercase'><Link className='text-[20px] text-[#313f38] no-underline uppercase' to='/rooms'>find a room</Link></h4>
-                            <EastRoundedIcon className='text-[#313F38]' />
+
                     </div>
                     <button className='bg-[#313F38] border border-[1px] border-[#313F38] h-[125px] w-[370px]'><Link className='text-[20px] text-[#FFFCF6] no-underline uppercase' to='/booking'>book room</Link></button>
                 </div>
