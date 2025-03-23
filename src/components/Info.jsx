@@ -1,7 +1,7 @@
 import React from 'react'
 import InfoImg from '../assets/info-img.png'
 import AboutImg from '../assets/about.png'
-import Label from '../assets/label.png'
+import Label from '../assets/Aeris-logo.png'
 import Border from '../assets/border.png'
 import Vector1 from '../assets/vector1.png'
 
