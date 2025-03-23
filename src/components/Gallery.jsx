@@ -30,7 +30,6 @@ const Gallery = () => {
                 </div>
                 <img src={Toilet} alt="" />
             </div>
-            <div className="bankhotel"></div>
         </section>
     )
 }
