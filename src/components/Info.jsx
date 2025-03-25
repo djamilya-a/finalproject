@@ -27,7 +27,7 @@ const Info = () => {
         <div className="hidden lg:flex w-[345px] info px-[80px] flex-col items-center gap-[170px]">
           <div className="ml-[50px] about">
             <img className='rounded-[50%] opacity-70 mb-[20px] ml-[50px]' src={Label} alt="" />
-            <img className='w-[70px]' src={AboutImg} alt="" />
+            <img className='w-[120px]' src={AboutImg} alt="" />
           </div>
           <div className="flex flex-col justify-center items-center">
             <img src={Border} alt="" />
