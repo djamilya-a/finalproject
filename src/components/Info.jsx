@@ -1,6 +1,6 @@
 import React from 'react'
 import InfoImg from '../assets/info-img.png'
-import AboutImg from '../assets/about.png'
+import AboutImg from '../assets/infoimg.png'
 import Label from '../assets/Aeris-logo.png'
 import Border from '../assets/border.png'
 import Vector1 from '../assets/vector1.png'
@@ -27,7 +27,7 @@ const Info = () => {
         <div className="hidden lg:flex w-[345px] info px-[80px] flex-col items-center gap-[170px]">
           <div className="ml-[50px] about">
             <img className='rounded-[50%] opacity-70 mb-[20px] ml-[50px]' src={Label} alt="" />
-            <img className='w-[1200px]' src={AboutImg} alt="" />
+            <img className='w-[300px]' src={AboutImg} alt="" />
           </div>
           <div className="flex flex-col justify-center items-center">
             <img src={Border} alt="" />
