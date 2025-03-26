@@ -7,7 +7,7 @@ import Vector1 from '../assets/vector1.png'
 
 const Info = () => {
   return (
-    <section className='bg-[#313F38]'>
+    <section className='w-full bg-[#313F38]'>
       <div className="h-[1px] bg-[#3F5148]"></div>
       <div className="w-full mx-[auto] lg:w-[1024px] mx-[auto] flex justify-between items-center xl:w-[1400px] mx-[auto] flex justify-between items-center">
         <div className="w-[100%] flex flex-col gap-[30px] lg:block">

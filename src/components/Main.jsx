@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Main = () => {
   return (
-    <main className='bg-[#313F38]'>
+    <main className='w-full bg-[#313F38]'>
       <div className="w-full lg:w-[1024px] xl:w-[1400px] mx-[auto]">
         <div className="flex items-end justify-between pb-[70px]">
           <div className="">
