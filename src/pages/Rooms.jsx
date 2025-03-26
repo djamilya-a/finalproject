@@ -1,7 +1,7 @@
 import React from 'react'
 import Chip from '../components/Chip'
 import Room from '../assets/room.png'
-import Label from '../assets/label1.png'
+import Label from '../assets/Aeris-logo.png'
 import Broom from '../assets/broom.png'
 import Bath from '../assets/bath.png'
 import { Link } from 'react-router-dom'
@@ -30,7 +30,7 @@ const Rooms = () => {
       </section>
       <section className='bg-[#FFFCF6]'>
         <div className="w-[1200px] mx-auto pt-[100px]">
-          <img className='logo1' src={Label} alt="" />
+          <img className='logo1 rounded-[50%] opacity-95 w-[85px]' src={Label} alt="" />
           <div className="flex justify-between items-center">
             <div className="flex flex-col gap-[50px] items-start justify-start label1">
               <img src={Bath} alt="" />
