@@ -17,7 +17,7 @@ const Main = () => {
           </div>
         </div>
         <div className="main-bg w-[355px] md:w-[768px] lg:w-[1024px] xl:w-[1400px] mx-[auto] h-[588px]">
-          <button className='bg-[#FCD043] opacity-85 border border-[1px] border-[#FCD043] h-[125px] w-[370px] text-[18px] text-[black] no-underline uppercase ml-[1030px]'><Link className='text-[18px] text-[black] no-underline uppercase' to='/booking'>book room</Link></button>
+          <button className='hidden lg:block bg-[#FCD043] opacity-85 border border-[1px] border-[#FCD043] h-[125px] w-[370px] text-[18px] text-[black] no-underline uppercase ml-[1030px]'><Link className='text-[18px] text-[black] no-underline uppercase' to='/booking'>book room</Link></button>
         </div>
         <div className="py-[50px]">
           <h5 className='text-[#FFFCF6] uppercase text-center text-[12px] lg:text-[26px] text-right'>Art & Congress <br /> <span className='italic'>hall</span></h5>
