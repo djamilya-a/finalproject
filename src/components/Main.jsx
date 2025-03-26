@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const Main = () => {
   return (
     <main className='bg-[#313F38]'>
-      <div className="w-[100%] lg:w-[1024px] xl:w-[1400px] mx-[auto]">
+      <div className="w-full lg:w-[1024px] xl:w-[1400px] mx-[auto]">
         <div className="flex items-end justify-between pb-[70px]">
           <div className="">
             <h1 className='text-[#FFFCF6] text-[80px] lg:text-[120px] xl:text-[170px] h1'>Aeris<span className='text-[#FCD043] h1'>Hotel</span></h1>

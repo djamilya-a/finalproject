@@ -9,7 +9,7 @@ const Info = () => {
   return (
     <section className='bg-[#313F38]'>
       <div className="h-[1px] bg-[#3F5148]"></div>
-      <div className="w-[100%] mx-[auto] lg:w-[1024px] mx-[auto] flex justify-between items-center xl:w-[1400px] mx-[auto] flex justify-between items-center">
+      <div className="w-full mx-[auto] lg:w-[1024px] mx-[auto] flex justify-between items-center xl:w-[1400px] mx-[auto] flex justify-between items-center">
         <div className="w-[100%] flex flex-col gap-[30px] lg:block">
           <div className="hidden lg:flex flex-col items-end info-content">
             <h2 className='text-[#FCD043] text-[140px] h2'>About</h2>

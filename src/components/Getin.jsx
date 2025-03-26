@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 
 const Getin = () => {
     return (
-        <section className='bg-[#FFFCF6] pt-[150px] pb-[70px]'>
+        <section className='w-full bg-[#FFFCF6] pt-[150px] pb-[70px]'>
             <div className="w-[100%] lg:w-[1024px] xl:w-[1400px] mx-[auto]">
                 <img className='hidden lg:block vector' src={Vector2} alt="" />
             </div>
