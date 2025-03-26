@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
-    <header className='bg-[#313F38]'>
-      <div className="w-[100%] lg:w-[1024px] xl:w-[1400px] mx-auto py-[50px] flex justify-between items-center">
+    <header className='w-full bg-[#313F38]'>
+      <div className="w-full lg:w-[1024px] xl:w-[1400px] mx-auto py-[50px] flex justify-between items-center">
         <div className="logo">
           <h4 className='font-[El Messiri] font-semibold text-[20px] text-[#FFFCF6]'>AerisHotel</h4>
         </div>
