@@ -41,7 +41,7 @@ const RoomsList = () => {
     return (
         <section className='hidden lg:block bg-[#FFFCF6] py-[100px]'>
             <div className="flex justify-between items-start">
-                <h2 className="uppercase text-[125px] leading-[120px] pb-[100px]">rooms & <br /> apartments</h2>
+                <h2 className="uppercase text-[125px] text-[#1B3B36] leading-[120px] pb-[100px]">rooms & <br /> apartments</h2>
                 <p className="text-[#1B3B36] text-[18px] uppercase">All room decoration was made <br /> with ecological certified and <br /> safe materials.</p>
             </div>
             <div className="w-[1440px] mx-auto">

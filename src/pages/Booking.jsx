@@ -40,7 +40,7 @@ export default function Register() {
 
   return (
     <div className="w-full lg:pt-[70px] pb-[20px] flex flex-col items-center justify-start bg-[#FFFCF6]">
-      <div className="w-[330px] px-[0px] lg:bg-[#FFFCF6] flex flex-col items-center justify-center gap-[50px] px-[300px] py-[50px] border border-[#FCD043] border-[2px] rounded-[20px]">
+      <div className="w-[330px] px-[0px] py-[50px] border border-[#FCD043] border-[2px] rounded-[20px] bg-[#FFFCF6] flex flex-col items-center justify-center gap-[50px] lg:px-[300px]">
         <h2 className="text-[#1B3B36] text-[40px] lg:text-[80px] font-bold text-center">Find room</h2>
         <form onSubmit={handleSubmit} className="flex flex-col items-center justify-center gap-[30px]">
           <input
