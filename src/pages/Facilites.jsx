@@ -1,5 +1,4 @@
 import React from 'react'
-import Label from '../assets/Aeris-logo.png'
 import Lobby from '../assets/lobby.png'
 import Hall1 from '../assets/hall1.png'
 import Open from '../assets/Open.png'
@@ -11,7 +10,6 @@ const Restaurant = () => {
       <div className="h-[1px] bg-[#3F5148]"></div>
       <div className="w-[1400px] mx-auto py-[50px]">
         <h1 className='text-[#FCD043] text-[125px]'>“Safe” restaurant</h1>
-        <img className='rounded-[50%] opacity-95 w-[85px]' src={Label} alt="" />
         <div className="flex justify-between items-start my-[100px]">
           <h3 className='text-[#FFFCF6] text-[50px] capitalize'>One of a Kind</h3>
           <p className='text-[#FFFCF6] text-[18px] mr-[150px]'>Aeris Hotel proudly welcomes you to the <br /> Safe Restaurant, a place where you will <br /> wish you could dine every day. The <br /> restaurant offers a unique menu developed <br /> by the team of professionals led by chef <br /> Mary-Ann Jones, the wine list with more <br /> than 250 items, the outstanding service, <br /> and the unforgettable atmosphere.</p>
