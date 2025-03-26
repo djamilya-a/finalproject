@@ -30,7 +30,7 @@ const Rooms = () => {
       </section>
       <section className='bg-[#FFFCF6]'>
         <div className="w-[1200px] mx-auto pt-[100px]">
-          <img className='logo1 rounded-[50%] opacity-95 w-[85px]' src={Label} alt="" />
+          <img className='logo1 rounded-[50%] opacity-95 w-[120px]' src={Label} alt="" />
           <div className="flex justify-between items-center">
             <div className="flex flex-col gap-[50px] items-start justify-start label1">
               <img src={Bath} alt="" />
