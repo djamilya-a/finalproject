@@ -11,7 +11,7 @@ const Gallery = () => {
     return (
         <section className='hidden lg:block bg-[#313F38] py-[100px] w-[100%]'>
             <div className="flex flex-col items-center justify-center gap-[20px]">
-                <img className='rounded-[50%] opacity-95 -mb-[40px] ml-[180px] w-[85px]' src={Logo} alt="" />
+                <img className='rounded-[50%] opacity-95 w-[85px]' src={Logo} alt="" />
                 <h2 className='text-[#FCD043] text-[105px] uppercase'>our gallary</h2>
             </div>
             <div className="flex items-start justify-between pt-[30px]">
