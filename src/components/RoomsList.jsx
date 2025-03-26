@@ -39,9 +39,9 @@ const RoomsList = () => {
     console.log(rooms);
 
     return (
-        <section className='bg-[#FFFCF6] py-[100px]'>
+        <section className='sm:w-[330px] mx-auto lg:bg-[#FFFCF6] py-[100px]'>
             <div className="flex justify-between items-start">
-                <h2 className="text-[#1B3B36] text-[20px] lg:uppercase text-[125px] leading-[120px] pb-[100px]">rooms & <br /> apartments</h2>
+                <h2 className="sm: text-[#1B3B36] text-[20px] lg:uppercase text-[125px] leading-[120px] pb-[100px]">rooms & <br /> apartments</h2>
                 <p className="hidden lg:block text-[#1B3B36] text-[18px] uppercase">All room decoration was made <br /> with ecological certified and <br /> safe materials.</p>
             </div>
             <div className="w-[1440px] mx-auto">

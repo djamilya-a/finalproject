@@ -1,5 +1,4 @@
 import React from 'react'
-import Chip from './Chip'
 
 const RoomsCard = ({image1, image2, name, description}) => {
   return (
