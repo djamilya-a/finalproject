@@ -7,6 +7,9 @@ import About from './pages/About'
 import Layout from './pages/Layout'
 import Signup from './pages/Signup'
 import Booking from './pages/Booking'
+import RoomsList from './components/RoomsList'
+import Restaurant from './components/Restaurant'
+import FacilitesList from './components/FacilitesList'
 
 
 function App() {
@@ -16,7 +19,11 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<Layout />}>
-            <Route index element={<Home />} />
+            <Route index element={<Home />}></Route>
+            <Route path='/roomslist' element={<RoomsList />} />
+            <Route path='/restaurant' element={<Restaurant />} />
+            <Route path='/halls' element={<FacilitesList />} />
+            <Route path='/halls' element={<FacilitesList />} />
             <Route path='/about' element={<About />} />
             <Route path='/signup' element={<Signup />} />
             <Route path='/facilites' element={<Facilites />} />

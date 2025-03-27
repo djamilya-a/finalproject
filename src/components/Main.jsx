@@ -9,7 +9,7 @@ const Main = () => {
         <div className="flex items-end justify-between pb-[70px]">
           <div className="">
             <h1 className='text-[#FFFCF6] text-[80px] lg:text-[120px] xl:text-[170px] h1'>Aeris<span className='text-[#FCD043] h1'>Hotel</span></h1>
-            <h5 className='text-[#FCD043] text-[12px] lg:text-[18px] uppercase'>rooms // restaurant // congress hall // wine bar</h5>
+            <h5 className='hidden lg:block text-[#FCD043] text-[18px] uppercase'><Link to='/roomslist'>rooms</Link> // <Link to='/restaurant'>restaurant</Link> // <Link to='/halls'>congress hall</Link> // <Link to='/halls'>wine bar</Link></h5>
           </div>
           <div className="mr-[100px] hidden lg:block">
             <Chip />
